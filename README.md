@@ -1,1 +1,1 @@
-# HaskellForAi
+# Haskel-Training
